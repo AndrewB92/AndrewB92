@@ -1,0 +1,57 @@
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="300" rx="24" fill="#070B14"/>
+  <circle cx="120" cy="60" r="170" fill="#7C5CFF" opacity="0.22"/>
+  <circle cx="790" cy="260" r="170" fill="#3DDC97" opacity="0.14"/>
+
+  <rect x="38" y="34" width="824" height="232" rx="20" fill="#0D1324" stroke="rgba(255,255,255,0.12)"/>
+
+  <text x="68" y="76" fill="#3DDC97" font-family="Monaco, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="3">
+    MINI GITHUB QUEST
+  </text>
+
+  <text x="68" y="122" fill="#E5EDF8" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">
+    Andrew Dev Quest
+  </text>
+
+  <text x="70" y="158" fill="#8FA4BD" font-family="Inter, Arial, sans-serif" font-size="18">
+    A tiny keyboard platformer about clean UI, CMS workflows, and shipping better web.
+  </text>
+
+  <rect x="68" y="194" width="132" height="38" rx="19" fill="#111A30" stroke="rgba(255,255,255,0.12)"/>
+  <text x="134" y="219" text-anchor="middle" fill="#E5EDF8" font-family="Monaco, Consolas, monospace" font-size="14">
+    ← → move
+  </text>
+
+  <rect x="214" y="194" width="126" height="38" rx="19" fill="#111A30" stroke="rgba(255,255,255,0.12)"/>
+  <text x="277" y="219" text-anchor="middle" fill="#E5EDF8" font-family="Monaco, Consolas, monospace" font-size="14">
+    Space jump
+  </text>
+
+  <rect x="354" y="194" width="96" height="38" rx="19" fill="#7C5CFF"/>
+  <text x="402" y="219" text-anchor="middle" fill="#FFFFFF" font-family="Monaco, Consolas, monospace" font-size="14" font-weight="700">
+    Play
+  </text>
+
+  <rect x="566" y="210" width="260" height="28" fill="#17233B"/>
+  <rect x="566" y="210" width="260" height="5" fill="#3DDC97"/>
+
+  <rect x="612" y="172" width="28" height="38" fill="#7C5CFF"/>
+  <rect x="618" y="156" width="16" height="16" fill="#F3C7A6"/>
+  <rect x="620" y="150" width="14" height="6" fill="#2B1B14"/>
+  <rect x="614" y="210" width="7" height="12" fill="#E5EDF8"/>
+  <rect x="631" y="210" width="7" height="12" fill="#E5EDF8"/>
+
+  <circle cx="705" cy="174" r="18" fill="#7C5CFF"/>
+  <circle cx="705" cy="174" r="11" fill="#111A30"/>
+  <text x="705" y="179" text-anchor="middle" fill="#E5EDF8" font-family="Monaco, Consolas, monospace" font-size="10" font-weight="700">
+    TS
+  </text>
+
+  <rect x="762" y="184" width="32" height="26" fill="#FF5577"/>
+  <rect x="768" y="176" width="20" height="10" fill="#FF5577"/>
+  <rect x="770" y="195" width="5" height="5" fill="#070B14"/>
+  <rect x="782" y="195" width="5" height="5" fill="#070B14"/>
+
+  <rect x="820" y="120" width="6" height="90" fill="#E5EDF8"/>
+  <rect x="826" y="128" width="48" height="30" fill="#3DDC97"/>
+</svg>

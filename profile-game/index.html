@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Andrew Dev Quest</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="shell">
+    <section class="game-card">
+      <div class="game-header">
+        <div>
+          <p class="eyebrow">Mini GitHub Quest</p>
+          <h1>Andrew Dev Quest</h1>
+        </div>
+
+        <div class="stats">
+          <span>Score: <strong id="score">0</strong></span>
+          <span>Status: <strong id="status">Ready</strong></span>
+        </div>
+      </div>
+
+      <canvas id="game" width="960" height="540" aria-label="Andrew Dev Quest game"></canvas>
+
+      <div class="controls">
+        <span>← → Move</span>
+        <span>Space / ↑ Jump</span>
+        <span>R Restart</span>
+      </div>
+
+      <p class="mobile-note">
+        Desktop keyboard recommended. Mobile support is intentionally minimal.
+      </p>
+    </section>
+  </main>
+
+  <script src="./game.js"></script>
+</body>
+</html>
