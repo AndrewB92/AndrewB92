@@ -88,11 +88,3 @@ const andrew = {
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_NUMBER)
-
-## Mini Dev Quest
-
-<a href="https://andrewb92.github.io/AndrewB92/profile-game/" target="_blank">
-  <img src="./assets/dev-quest-preview.svg" alt="Play Andrew Dev Quest" />
-</a>
-
-Desktop only. Use arrow keys to move, Space to jump, and R to restart.
